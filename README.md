@@ -1,1 +1,1 @@
-# Calculator-using-Python
+# Calculator
